@@ -266,7 +266,7 @@ else:
 
 	else:
 
-		print "-- HULK Attack Started --"
+		print " DVS TEAM Bắt Đầu Tấn Công "
 
 		if len(sys.argv)== 3:
 
