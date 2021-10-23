@@ -245,7 +245,7 @@ class MonitorThread(threading.Thread):
 
 		if flag==2:
 
-			print "\n-- HULK Attack Finished --"
+			print "\n-- DVS TEAM  --"
 
 
 #execute 
