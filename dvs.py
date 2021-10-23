@@ -245,7 +245,7 @@ class MonitorThread(threading.Thread):
 
 		if flag==2:
 
-			print "\n-- 〖DVS TEAM〗 Bắt Đầu Tấn Công --"
+			print "\n-- HULK Attack Finished --"
 
 
 #execute 
@@ -266,7 +266,7 @@ else:
 
 	else:
 
-		print "-- DVS TEAM Bắt Đầu Tấn Công --"
+		print "-- HULK Attack Started --"
 
 		if len(sys.argv)== 3:
 
@@ -293,3 +293,4 @@ else:
 		t = MonitorThread()
 
 		t.start()
+
